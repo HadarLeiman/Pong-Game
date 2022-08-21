@@ -3,7 +3,7 @@ Java OOP project
 
 In this project I created Harry Potter themed [pong game](https://en.wikipedia.org/wiki/Pong) using the java awt platform.
 
-Installation:
+## **Installation:**
 1. Install [Java](https://www.java.com/en/) and [Apache Ant](https://ant.apache.org/manual/install.html).
 2. Download attached files
 3. Open the command line
@@ -11,7 +11,7 @@ Installation:
 5. run **ant run**
 6. If you want to determine the order of the levels in the game run **ant -Dargs="1 3 2 1 4 3" run** (where "1 3 2 1 4 3" are the levels you want between 1-4)
 
-How to play:
+## **How to play:**
 - press -> to move paddle to the right
 - press <- to move paddle to the left
 - press p to pause the game
